@@ -16,6 +16,21 @@
     ],
     "baseUrl": ".",
     "paths": {
+      "@xplat/*": [
+        "libs/*"
+      ],
+      "@xplat/nativescript": [
+        "xplat/nativescript/index.ts"
+      ],
+      "@xplat/nativescript/*": [
+        "xplat/nativescript/*"
+      ],
+      "@xplat/web": [
+        "xplat/web/index.ts"
+      ],
+      "@xplat/web/*": [
+        "xplat/web/*"
+      ]
     }
   },
   "exclude": [

@@ -1,6 +1,11 @@
-# Xplat
+# Paas boiler plate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx).
+
+## start app
+> npm run start.web.myapp
+> npm run start.nativescript.myapp.ios
+> npm run start.nativescript.myapp.android
 
 ## Nrwl Extensions for Angular (Nx)
 
